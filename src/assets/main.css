@@ -132,7 +132,7 @@ body {
 .products-header--search {
   min-width: 306px;
   /* height: 34px; */
-  background-image: url(../img/icon/search.png);
+  background-image: url(../assets/img/icon/search.svg);
   background-color: #ffffff;
   border: 1px solid #d9d9d9;
   border-radius: 2px;
