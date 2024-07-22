@@ -53,4 +53,5 @@ export const restArray = [
       type: "Пицца",
       image: "pizza-burger.jpg",
     },
+    
   ];
